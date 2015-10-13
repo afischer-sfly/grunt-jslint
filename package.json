@@ -34,7 +34,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "jslint": "~0.8.1"
+    "jslint": "git+https://github.com/afischer-sfly/node-jslint.git"
   },
   "devDependencies": {
     "better-assert": "~1.0.0",
